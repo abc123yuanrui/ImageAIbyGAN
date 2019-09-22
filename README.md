@@ -1,3 +1,4 @@
-# ImageMaster
+## ImageMaster
 GAN Image Processor
-TEST THIS
+main.py is the flask server (useage: export FLASKAPP=main.py  flask run )
+testclient is the front end client
